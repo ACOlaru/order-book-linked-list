@@ -1,0 +1,5 @@
+# type,id,side,symbol,price,quantity
+NEW,1,BUY,IBM,100,10
+NEW,2,SELL,IBM,101,5
+AMEND,1,,12
+CANCEL,2
